@@ -1,5 +1,5 @@
 {
-  "code": 1022,
-  "name": "10.2.2",
-  "desc": "[更新日志]\n底包基于OK2.3.5正式版\n- live支持playback功能\n取消配置的live推送，壁纸推送功能\n增加推送jxToken到TV功能（正式版）\nUI样式调整\n更新日期：240528"
+  "code": 1023,
+  "name": "10.2.3",
+  "desc": "[更新日志]\n底包基于OK2.3.6正式版\n- 修复偶发的AI去AD不能播放的问题\n- 修复live地址逗号问题\n- EXO播放器速度调整的优化\n- DNS问题修复\n增加推送jxToken到TV功能，以及样式调优\n标准版（standard）和低版本（kitkat）同时更新\n更新日期：240530"
 }
