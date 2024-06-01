@@ -1,0 +1,15 @@
+name: Analyze Repo Size
+
+on: [push]
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Analyze Git repository size
+      run: |
+        git clone --mirror $GITHUB_REPOSITORY repo
+        cd repo
+        git gc
+        git count-objects -vH
