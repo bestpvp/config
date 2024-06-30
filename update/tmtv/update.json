@@ -1,9 +1,9 @@
 {
-    "tag_name": "240630",
+    "tag_name": "240701",
     "assets": [
         {
             "browser_download_url": "https://raw.githubusercontent.com/bestpvp/config/main/update/tmtv/app-release.apk"
         }
     ],
-    "body": "优化\n- 优化节目单显示逻辑\r\n\r\n修复\r\n\r\n- 修复设置页面地址错误"
+    "body": "功能更新\r\n\r\n- 增加自动更新功能\r\n\r\n修复\r\n\r\n- 修复设置页面地址错误"
 }
