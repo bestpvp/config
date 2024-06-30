@@ -5,5 +5,5 @@
             "browser_download_url": "https://raw.githubusercontent.com/bestpvp/config/main/update/tmtv/app-release.apk"
         }
     ],
-    "body": "### 优化\r\n\r\n- 优化节目单显示逻辑\r\n\r\n### 修复\r\n\r\n- 修复设置页面地址错误"
+    "body": "优化\n- 优化节目单显示逻辑\r\n\r\n修复\r\n\r\n- 修复设置页面地址错误"
 }
