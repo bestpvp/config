@@ -1,9 +1,9 @@
 {
-    "tag_name": "240703",
+    "tag_name": "240706",
     "assets": [
         {
             "browser_download_url": "https://raw.githubusercontent.com/bestpvp/config/main/update/tmtv/app-release.apk"
         }
     ],
-    "body": "功能更新\r\n\r\n- 增加自动更新功能\r\n\r\n- 替换国内CDN镜像站链接，解决部分用户无法打开自定义配置页的问题"
+    "body": "240706 功能更新\r\n\r\n- 默认启动增加自定义内容，介绍或使用说明等\r\n\r\n- 调整自定义数据源入口位置，更加容易找到\r\n\r\n- 一些细节处理的优化"
 }
