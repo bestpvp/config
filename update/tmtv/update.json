@@ -1,9 +1,9 @@
 {
-    "tag_name": "240706",
+    "tag_name": "240723",
     "assets": [
         {
             "browser_download_url": "https://raw.githubusercontent.com/bestpvp/config/main/update/tmtv/app-release.apk"
         }
     ],
-    "body": "240706 功能更新\r\n\r\n- 默认启动增加自定义内容，介绍或使用说明等\r\n\r\n- 调整自定义数据源入口位置，更加容易找到\r\n\r\n- 一些细节处理的优化"
+    "body": "240723 功能更新\r\n\r\n- 超时换源、断线重连\r\n\r\n- 尝试修复手机端设置界面直接退出应用\r\n\r\n- 默认禁用画中画\r\n\r\n- 支持rtsp协议\r\n\r\n- 全局画面比例"
 }
