@@ -1,9 +1,9 @@
 {
-    "tag_name": "240802",
+    "tag_name": "240818",
     "assets": [
         {
             "browser_download_url": "https://raw.githubusercontent.com/bestpvp/config/main/update/tmtv/app-release.apk"
         }
     ],
-    "body": "240802 功能更新\r\n\r\n- 新增频道分组管理\r\n\r\n- 直播源混合模式（当所有线路无播放时，降级为webview网页播放）\r\n\r\n- 节目预约\r\n\r\n- 全局画面比例\r\n\r\n- 支持rtsp链接\r\n\r\n- 台标显示\r\n\r\n- 优化重构代码\r\n\r\n- 优化界面、交互等\r\n\r\n- 移除小窗模式"
+    "body": "240818 功能更新\r\n\r\n- 自定义配置页面读取本地资源"
 }
