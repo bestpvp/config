@@ -1,9 +1,9 @@
 {
-    "tag_name": "v240818",
+    "tag_name": "v240827",
     "assets": [
         {
             "browser_download_url": "https://raw.githubusercontent.com/bestpvp/config/main/update/tmtv/app-release.apk"
         }
     ],
-    "body": "240818 功能更新\r\n\r\n- 自定义配置页面读取本地资源"
+    "body": "240827 功能更新\r\n\r\n- 增加回看功能：在节目单中增加了回放按钮\r\n\r\n- 多仓配置：原本只有一个在线源的配置，现在增加到了 3 个，且插兜收罗了网上比较著名的数据源\r\n\r\n- 首次打开 app 增加了一个使用须知，确认后才能进入 app"
 }
