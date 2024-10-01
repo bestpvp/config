@@ -1,9 +1,9 @@
 {
-    "tag_name": "v240905",
+    "tag_name": "v241001",
     "assets": [
         {
             "browser_download_url": "https://raw.githubusercontent.com/bestpvp/config/main/update/tmtv/app-release.apk"
         }
     ],
-    "body": "功能更新\r\n\r\n- 尝试修复播放器会黑屏只有声音\r\n\r\n- 尝试修复文件权限"
+    "body": "功能更新\r\n\r\n- 优化触摸设备点击"
 }
