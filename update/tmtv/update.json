@@ -1,9 +1,9 @@
 {
-    "tag_name": "v241015",
+    "tag_name": "v241101",
     "assets": [
         {
             "browser_download_url": "https://raw.githubusercontent.com/bestpvp/config/main/update/tmtv/app-release.apk"
         }
     ],
-    "body": "功能更新\r\n\r\n- 额外增加了一个自更新的 IPV4 源，内测过程中反馈速度还行，推广给更多老铁\r\n\r\n- 样式更新，以及性能调优"
+    "body": "功能更新\r\n\r\n- 添加播放器错误中文提示\r\n\r\n- 优化经典选台界面,更加紧凑\r\n\r\n- 推送订阅源后应用到当前\r\n\r\n- 右上角时间背景透明\r\n\r\n- 优化txt直播源注释处理"
 }
